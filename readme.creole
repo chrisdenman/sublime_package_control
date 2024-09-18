@@ -1,7 +1,7 @@
 = Sublime Package Control
 
 A Sublime Text 2 (http://www.sublimetext.com/2) package manager for easily
-discovering, install, upgrading and removing packages. Also includes an
+discovering, installing, upgrading and removing packages. Also includes an
 automatic updater and package creation tool.
 
 Packages can be installed from GitHub, BitBucket or custom package repositories.
@@ -9,7 +9,7 @@ The plugin uses a channel and repository system to allow users to find new
 packages over time without any work. It also supports working with packages that
 were manually installed.
 
-Please see http://wbond.net/sublime_packages/package_control for install
+Please see http://wbond.net/sublime_packages/package_control for installation
 instructions, screenshots and documentation.
 
 == License
